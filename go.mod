@@ -1,4 +1,4 @@
-module baseEncryption
+module github.com/zmggit/baseEncryption
 
 go 1.20
 
